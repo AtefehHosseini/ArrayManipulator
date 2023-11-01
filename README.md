@@ -1,4 +1,3 @@
-
 # Array Manipulator
 
 This repository contains a Java project focused on array manipulation algorithms. The `ArrayManipulator` class includes methods for performing various operations on an array, such as insertion, removal, printing, and index searching.
